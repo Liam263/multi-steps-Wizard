@@ -55,7 +55,7 @@ export function FifthStepForm() {
             You are free to choose your hourly rate and change it at any time.
           </p>
           <p>
-            If you are just starting out, and don't have any reviews or
+            If you are just starting out, and do not have any reviews or
             recommendations be aware that a very high price might put people
             off. You can always use a lower rate to attract students initially
             and adjust it as you gain a reputation on Tutor Finder.
