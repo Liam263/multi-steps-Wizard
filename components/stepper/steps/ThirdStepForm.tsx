@@ -49,8 +49,8 @@ export function ThirdStepForm() {
   }
 
   return (
-    <div className="grid grid-cols-5 ">
-      <Card className="w-[350px] col-span-2">
+    <div className="grid grid-cols-6 ">
+      <Card className="w-3/4 col-start-2 col-span-2">
         <CardHeader>
           <CardTitle className="flex text-4xl gap-4">
             <FaRegSmileWink />
@@ -78,7 +78,7 @@ export function ThirdStepForm() {
           </ul>
         </CardContent>
       </Card>
-      <div className="ml-10 col-span-3">
+      <div className=" col-span-2">
         <Form {...form}>
         <CardTitle className="text-4xl mb-4">Description</CardTitle>
 
